@@ -9,10 +9,6 @@ I'm an IT student at the University of Warmia and Mazury in Olsztyn and a member
 - 🐍 Into Python and ML
 - 🔬 Mostly using PyTorch, sometimes scikit-learn
 
-## 🚀 My Path
-
-I started with web dev (React, Next.js), but after discovering AI-generated art, I got interested in ML - especially Deep Learning.
-
 ## 🛠️ Projects
 
 - [Sat2Map](https://huggingface.co/spaces/Kiwinicki/sat2map): Satellite image to map conversion (AI club project)
