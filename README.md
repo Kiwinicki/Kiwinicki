@@ -24,6 +24,6 @@ I started with web dev (React, Next.js), but after discovering AI-generated art,
 ## 🌐 Where to Find Me
 
 - 🤗 [Hugging Face](https://huggingface.co/Kiwinicki)
-- 📫 [LinkedIn](https://www.linkedin.com/in/dawid-koterwas-4470912b8/)
+- 📫 [LinkedIn](www.linkedin.com/in/dawid-koterwas)
 
 Feel free to reach out if you're interested in collaborating on ML projects or just want to chat about AI.
